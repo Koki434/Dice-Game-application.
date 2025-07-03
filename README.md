@@ -1,2 +1,3 @@
 # Dice-Game-application.
-Dice Game
+# Dice game: initial revision
+# Greetings added
